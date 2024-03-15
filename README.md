@@ -4,3 +4,5 @@ Initial test for job
 SDK-weather can get current weather and control conkurency client sessions which using the same API_KEY, and can cache Weather every 10 minuts, with MOCK TESTS
 
 Run in console 'mvn install' and 'mvn test' for tests
+
+![image](https://github.com/resana000/sdk-openweathermap-demo/assets/45143767/1908c1fb-767d-4a30-9516-f160dbc5c519)
