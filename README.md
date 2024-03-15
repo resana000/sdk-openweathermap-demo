@@ -5,4 +5,4 @@ SDK-weather can get current weather and control conkurency client sessions which
 
 Run in console 'mvn install' and 'mvn test' for tests
 
-![image](https://github.com/resana000/sdk-openweathermap-demo/assets/45143767/1908c1fb-767d-4a30-9516-f160dbc5c519)
+![image](https://github.com/resana000/sdk-openweathermap-demo/assets/45143767/8098c2d1-1256-493f-a3a2-f55c39dd021f)
